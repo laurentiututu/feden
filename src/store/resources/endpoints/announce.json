@@ -1,0 +1,8 @@
+{
+	"all": "/announces",
+	"slug": "/announces/slug/{{slug}}",
+	"me": "/announces/all/my",
+	"admin": "/announces/all/admin",
+	"image": "/announces/{{id}}/pictures",
+	"id": "/announces/{{id}}"
+}

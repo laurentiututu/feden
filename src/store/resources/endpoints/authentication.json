@@ -1,0 +1,22 @@
+{
+	"google_login": "/auth/google",
+	"google_token": "/auth/google/callback",
+	"facebook_login": "/auth/facebook",
+	"facebook_token": "/auth/facebook/callback",
+	"register": "/auth/signup",
+	"login": "/auth/login",
+	"logout": "/auth/logout",
+	"pass_forgot": "/auth/forgotPassword",
+	"pass_reset": "/auth/resetPassword",
+	"pass_set": "/auth/setPassword",
+	"pass_update": "/auth/updateMyPassword",
+	"resend_activation": "/auth/resendActivationUrl",
+	"refresh_token": "/auth/refreshToken",
+	"2fa": {
+		"validate": "/auth/2FA/validate",
+		"request": "/auth/2FA/request",
+		"verify": "/auth/2FA/verify",
+		"regenerate_codes": "/auth/2FA/regenerateBackupCodes",
+		"details": "/auth/2FA/details"
+	}
+}

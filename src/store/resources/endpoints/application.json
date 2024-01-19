@@ -1,0 +1,5 @@
+{
+	"all": "/applications",
+	"id": "/applications/{{id}}",
+	"announce": "/applications/announce/{{announceID}}"
+}

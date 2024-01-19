@@ -1,0 +1,8 @@
+{
+	"all": "/users",
+	"me": "/users/me",
+	"id": "/users/{{id}}",
+	"convert_agency": "/users/me/transformToAgency",
+	"avatar": "/users/me/profilePicture",
+	"slug": "/users/slug/{{slug}}"
+}

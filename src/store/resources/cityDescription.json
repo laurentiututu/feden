@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Alba",
+    "description": "Descoperă magia studiilor în Alba, un oraș cu aer proaspăt de munte și comunitate primitoare, unde cunoașterea și aventura se împletesc în armonie."
+  },
+  {
+    "name": "Arad",
+    "description": "Alege Aradul pentru studii inovatoare și viață urbană dinamică. Fii parte dintr-o comunitate diversă și explorează oportunitățile educaționale și culturale oferite de acest oraș cosmopolit."
+  },
+  {
+    "name": "Arges",
+    "description": "În Argeș, vei găsi un mediu academic înviorător înconjurat de peisaje naturale minunate. Aici, studiile tale vor prinde aripi, iar natura va deveni un aliat în căutarea cunoașterii."
+  },
+  {
+    "name": "Bacau",
+    "description": "Alege Bacăul pentru educație și experiențe autentice. Descoperă vibrantul oraș cultural, unde studiile își găsesc rădăcinile în tradiție și se dezvoltă în prezent."
+  },
+  {
+    "name": "Bihor",
+    "description": "În Bihor, vei găsi o comunitate primitoare și oportunități academice variate. Explorează frumusețea istorică și naturală a regiunii, în timp ce îți construiești viitorul."
+  },
+  {
+    "name": "Bistrita-Nasaud",
+    "description": "Bistrița-Năsăud te așteaptă cu mediul său liniștit și stimulant pentru studii. Aici, poți învăța într-un cadru pitoresc, încurajat de comunitatea locală prietenoasă."
+  },
+  {
+    "name": "Botosani",
+    "description": "Aici, la Botoșani, studenții sunt întâmpinați cu căldură și oportunități educaționale variate. Orașul îți oferă resurse pentru învățare și explorare culturală."
+  },
+  {
+    "name": "Braila",
+    "description": "Alege Brăila pentru un mediu academic inspirat de trecut și prezent. De la lecții captivante la explorări de peisaje și istorie, vei găsi tot ce ai nevoie aici."
+  },
+  {
+    "name": "Brasov",
+    "description": "În Brașov, studiile capătă o nouă dimensiune într-un cadru montan spectaculos. Inspiră-te din istoria orașului vechi și energizează-te în inima naturii."
+  },
+  {
+    "name": "Bucuresti",
+    "description": "Descoperă infinitele posibilități ale studiilor în București, capitala vibrantă și plină de oportunități academice și culturale. Aici, poți să înveți, să explorezi și să te dezvolți în fiecare zi."
+  },
+  {
+    "name": "Buzau",
+    "description": "Buzăul îți oferă mediul perfect pentru studii productive și experiențe autentice. Înconjurați de natură și istorie, vei crește ca student și ca individ."
+  },
+  {
+    "name": "Calarasi",
+    "description": "În Călărași, studenții găsesc liniște și oportunități educaționale. Alege acest oraș prietenos pentru a-ți începe călătoria academică cu pași siguri."
+  },
+  {
+    "name": "Caras-Severin",
+    "description": "Descoperă misterul și frumusețea Caras-Severin în timp ce îți desăvârșești studiile. Aici, vei învăța într-un mediu natural remarcabil, învățând din istorie și natură în același timp."
+  },
+  {
+    "name": "Cluj",
+    "description": "Alege Clujul pentru studii remarcabile într-un oraș cu vibrantele sale universități și viață culturală bogată. Devino parte a unei comunități academice dinamice și diversificate."
+  },
+  {
+    "name": "Constanta",
+    "description": "Studiază în Constanta și beneficiază de acces la educație și relaxare pe malul mării. Alege acest oraș pentru o experiență de învățare inovatoare și reconfortantă."
+  },
+  {
+    "name": "Covasna",
+    "description": "Covasna îți oferă un mediu de studiu liniștit și înviorător. Înconjurați de natură și băi termale, vei găsi inspirația și concentrarea necesare."
+  },
+  {
+    "name": "Dambovita",
+    "description": "În Dâmbovița, vei găsi oportunități academice variate și legătura cu istoria. Studiază într-un oraș care îmbină tradiția cu inovația."
+  },
+  {
+    "name": "Dolj",
+    "description": "Alege Doljul pentru o experiență educațională autentică și diversificată. Înconjurați de peisaje oltenesti și cultură, vei învăța într-un mediu plin de inspirație."
+  },
+  {
+    "name": "Galati",
+    "description": "Galatiul modern și vibrant îți oferă oportunități educaționale și culturale variate. Învață și dezvoltă-te într-un oraș aflat mereu în mișcare."
+  },
+  {
+    "name": "Giurgiu",
+    "description": "Studiile tale încep în Giurgiu, la poarta către noi orizonturi. Descoperă oportunități educaționale și trăiește într-un oraș plin de potențial."
+  },
+  {
+    "name": "Gorj",
+    "description": "În Gorj, studenții găsesc o atmosferă autentică și plină de istorie. Alege acest oraș pentru o experiență educațională și culturală în mijlocul naturii."
+  },
+  {
+    "name": "Harghita",
+    "description": "Alege Harghita pentru studii într-un cadru montan extraordinar. Descoperă tradițiile culturale secuiești și învață într-un mediu inovator."
+  },
+  {
+    "name": "Hunedoara",
+    "description": "Descoperă trecutul glorios și învață în prezentul vibrant al Hunedoarei. Alege acest oraș pentru o educație care îți dezvăluie istoria și îți modelează viitorul."
+  },
+  {
+    "name": "Ialomita",
+    "description": "În Ialomița, vei găsi un mediu propice pentru studii relaxante și productive. Învață în armonie cu natura și obține cunoștințele de care ai nevoie."
+  },
+  {
+    "name": "Iasi",
+    "description": "Descoperă învățământul superior de calitate în Iași, orașul cu tradiție academică și o viață culturală vibrantă. Aici, studiile devin o călătorie captivantă și înviorătoare."
+  },
+  {
+    "name": "Ilfov",
+    "description": "În Ilfov, găsești oportunități educaționale într-un cadru natural liniștit. Studiază aproape de București și beneficiază de atât de natură, cât și de oportunitățile urbane."
+  },
+  {
+    "name": "Maramures",
+    "description": "Alege Maramureșul pentru studii autentice și naturale. Descoperă meșteșugurile tradiționale și învață în mijlocul unui cadru pitoresc și inovator."
+  },
+  {
+    "name": "Mehedinti",
+    "description": "Mehedințiul îți oferă un mediu educațional prietenos într-un cadru natural relaxant. Studiază într-un oraș care îmbină învățarea cu relaxarea."
+  },
+  {
+    "name": "Mures",
+    "description": "Alege Mureșul pentru studii variate și experiențe culturale. Învață într-un oraș care îți oferă atât resurse academice, cât și o atmosferă prietenoasă."
+  },
+  {
+    "name": "Neamt",
+    "description": "Studiile tale prind viață în Neamț, în mijlocul peisajelor misterioase și culturii bogate. Aici, vei găsi oportunități academice și culturale care îți vor modela viitorul."
+  },
+  {
+    "name": "Olt",
+    "description": "În Olt, vei găsi un mediu educațional îmbinat cu natura și cultură. Alege acest oraș pentru studii productive și experiențe autentice."
+  },
+  {
+    "name": "Prahova",
+    "description": "Prahova îți oferă o experiență de învățare în inima naturii și a Carpaților. Studiază într-un oraș care te inspiră să crești ca student și ca individ."
+  },
+  {
+    "name": "Salaj",
+    "description": "Alege Sălajul pentru studii autentice și diversificate într-un cadru rural. Descoperă resurse educaționale și bucură-te de o comunitate primitoare."
+  },
+  {
+    "name": "Satu Mare",
+    "description": "Descoperă oportunități educaționale și diversitate culturală în Satu Mare. Alege acest oraș pentru o experiență de studiu remarcabilă și inovatoare."
+  },
+  {
+    "name": "Sibiu",
+    "description": "Sibiul îți oferă o experiență educațională într-un oraș istoric și vibrant. Descoperă cultura și învață într-un cadru care îmbină tradiția cu modernitatea."
+  },
+  {
+    "name": "Suceava",
+    "description": "Studiile tale prind viață în Suceava, în mijlocul peisajelor de basm și istoriei bogate. Aici, vei găsi oportunități academice și culturale care îți vor modela viitorul."
+  },
+  {
+    "name": "Teleorman",
+    "description": "Teleormanul îți oferă un mediu educațional liniștit, înconjurat de natură. Alege acest oraș pentru a studia în armonie cu mediul și pentru a-ți dezvolta cunoștințele."
+  },
+  {
+    "name": "Timis",
+    "description": "În Timiș, vei găsi oportunități educaționale într-un oraș modern și dinamic. Studiază într-un mediu plin de energie și descoperă o gamă variată de resurse academice."
+  },
+  {
+    "name": "Tulcea",
+    "description": "Tulcea îți oferă oportunități educaționale și explorări în natura sălbatică a Deltei Dunării. Alege acest oraș pentru studii într-un cadru unic și autentic."
+  },
+  {
+    "name": "Valcea",
+    "description": "În Vâlcea, vei găsi oportunități educaționale într-un cadru natural pitoresc. Studiază într-un oraș care îmbină învățarea cu relaxarea și frumusețea naturală."
+  },
+  {
+    "name": "Vaslui",
+    "description": "Alege Vasluiul pentru studii autentice și conexiune cu tradițiile locale. Descoperă cultura moldovenească și învață într-un cadru care îți oferă oportunități variate."
+  },
+  {
+    "name": "Vrancea",
+    "description": "Studiile tale prind viață în Vrancea, într-un mediu rural autentic. Alege acest oraș pentru o experiență de învățare înconjurată de natură și tradiție."
+  }
+]
